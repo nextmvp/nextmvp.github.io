@@ -431,7 +431,7 @@ header .side-nav .social-link {
     }
 }
 
-@-webkit-keyframes scroll-down {
+/* @-webkit-keyframes scroll-down {
     0% {
         opacity: 0.4;
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
@@ -452,7 +452,7 @@ header .side-nav .social-link {
         filter: alpha(opacity=40);
         top: 0;
     }
-}
+} */
 
 @-o-keyframes scroll-down {
     0% {
@@ -477,7 +477,7 @@ header .side-nav .social-link {
     }
 }
 
-@keyframes scroll-down {
+/* @keyframes scroll-down {
     0% {
         opacity: 0.4;
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
@@ -498,7 +498,7 @@ header .side-nav .social-link {
         filter: alpha(opacity=40);
         top: 0;
     }
-}
+} */
 
 .cover-social-link {
     position: relative;
